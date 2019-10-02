@@ -79,4 +79,4 @@ touch ~/data/personeelszaken/Janssen
 
 
 echo "Script is uitgevoerd, je kunt de mappen 
-terugvinden in je homefolder" 
+terugvinden in je homefolder, met het commando tree ~ kun je zien dat er een map data is gemaakt met submappen" 
